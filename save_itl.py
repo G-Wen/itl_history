@@ -1,3 +1,4 @@
+from email.mime import base
 import requests
 import json
 import os
@@ -222,8 +223,26 @@ def save_itl():
     # Hashtag Save ITL
     dayhour = datetime.datetime.utcnow().strftime("%Y-%m-%d-%H")
     basefolder = pathlib.Path().resolve() / "data" / dayhour
+    print(dayhour)
 
     take_itl_snapshot(dayhour)
     zip_data(basefolder, dayhour)
 
 save_itl()
+
+"""
+# Get info for song we missed, ie do a partial rerun of a job
+failed = []
+dayhour = ""
+basefolder = pathlib.Path().resolve() / "data" / dayhour
+song_scores_folder = pathlib.Path().resolve() / "data" / dayhour / "song_scores"
+song_info_folder = pathlib.Path().resolve() / "data" / dayhour / "song_info"
+save_songs(failed, song_scores_folder, song_info_folder)
+"""
+
+"""
+# Zip the new version after renaming the old tar
+dayhour = "2022-04-12-08"
+basefolder = pathlib.Path().resolve() / "data" / dayhour
+zip_data(basefolder, dayhour)
+"""
