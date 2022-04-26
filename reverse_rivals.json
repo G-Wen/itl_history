@@ -1,0 +1,3215 @@
+{
+  "1": {
+    "entrant_name": "VincentITG",
+    "rivals": {
+      "4": "VivaLaMoo",
+      "19": "Xynn",
+      "42": "sighmoe",
+      "67": "sk8snollie",
+      "239": "RumiKon",
+      "332": "Vagabond",
+      "417": "iGoCollege",
+      "436": "zxevik"
+    }
+  },
+  "2": {
+    "entrant_name": "teejusb",
+    "rivals": {
+      "7": "bkirz",
+      "45": "Hamaon",
+      "91": "natano",
+      "128": "Loak",
+      "191": "dom no bar",
+      "231": "andkaseywaslike",
+      "685": "Lyricalnyu"
+    }
+  },
+  "3": {
+    "entrant_name": "TommyDoesntMiss",
+    "rivals": {
+      "1": "VincentITG",
+      "46": "Captain Carbon",
+      "55": "titandude21",
+      "90": "Shpadoinkle",
+      "131": "Higgy",
+      "418": "ATB"
+    }
+  },
+  "4": {
+    "entrant_name": "VivaLaMoo",
+    "rivals": {
+      "13": "dimo",
+      "81": "Twix",
+      "337": "DDRDavo"
+    }
+  },
+  "5": {
+    "entrant_name": "Zarzob",
+    "rivals": {
+      "8": "Zankoku",
+      "11": "Squeens",
+      "21": "Lotarr",
+      "30": "Zeipher_Hawk",
+      "39": "IcyCold",
+      "63": "Highflyer",
+      "73": "ZarinahBBM",
+      "75": "amaiiberry",
+      "156": "Silver Fox",
+      "181": "ddrneel",
+      "196": "JEN86",
+      "236": "stormpegy",
+      "247": "babyzionov",
+      "248": "Slowest",
+      "336": "sumikk0",
+      "399": "Freyja",
+      "448": "Jkurs",
+      "685": "Lyricalnyu"
+    }
+  },
+  "7": {
+    "entrant_name": "bkirz",
+    "rivals": {}
+  },
+  "8": {
+    "entrant_name": "Zankoku",
+    "rivals": {
+      "9": "DGY.azirixx",
+      "16": "GWen",
+      "31": "plasmaaa",
+      "51": "NaoHikari",
+      "68": "flip",
+      "92": "Smalls",
+      "121": "DanPeriod",
+      "279": "dekw",
+      "448": "Jkurs"
+    }
+  },
+  "9": {
+    "entrant_name": "DGY.azirixx",
+    "rivals": {
+      "69": "DGY.Synthromancy",
+      "191": "dom no bar",
+      "293": "Shane_ITG_",
+      "309": "xRaPpApErx"
+    }
+  },
+  "10": {
+    "entrant_name": "DDRFanatik25",
+    "rivals": {
+      "22": "eightbitderp",
+      "51": "NaoHikari",
+      "58": "Kerpa",
+      "124": "HellKiteChaos",
+      "179": "NinjaNabi",
+      "228": "Cheerio"
+    }
+  },
+  "11": {
+    "entrant_name": "Squeens",
+    "rivals": {
+      "5": "Zarzob",
+      "41": "trescal",
+      "63": "Highflyer",
+      "73": "ZarinahBBM",
+      "82": "H8EVRYTHNG",
+      "89": "Vilepickle",
+      "131": "Higgy",
+      "132": "Cyxsound",
+      "138": "DRON",
+      "196": "JEN86",
+      "199": "Quesadilla",
+      "221": "nvanleerdrums",
+      "326": "XjojoX99",
+      "336": "sumikk0"
+    }
+  },
+  "12": {
+    "entrant_name": "NDGO",
+    "rivals": {}
+  },
+  "13": {
+    "entrant_name": "dimo",
+    "rivals": {
+      "4": "VivaLaMoo",
+      "15": "Bag Man",
+      "76": "Maxx-Storm",
+      "81": "Twix",
+      "155": "Ghelyr"
+    }
+  },
+  "14": {
+    "entrant_name": "iBBlon",
+    "rivals": {
+      "42": "sighmoe",
+      "479": "Kigha"
+    }
+  },
+  "15": {
+    "entrant_name": "Bag Man",
+    "rivals": {
+      "101": "limitin"
+    }
+  },
+  "16": {
+    "entrant_name": "GWen",
+    "rivals": {
+      "61": "PinkDad"
+    }
+  },
+  "17": {
+    "entrant_name": "Hunter",
+    "rivals": {
+      "38": "RAKKII-san",
+      "58": "Kerpa",
+      "79": "Chabala",
+      "289": "BSENSS6"
+    }
+  },
+  "18": {
+    "entrant_name": "mute",
+    "rivals": {
+      "590": "Raidos"
+    }
+  },
+  "19": {
+    "entrant_name": "Xynn",
+    "rivals": {
+      "48": "Franksoua",
+      "374": "phnix",
+      "479": "Kigha",
+      "617": "B3NS3X"
+    }
+  },
+  "20": {
+    "entrant_name": "Maybell Eigenhart",
+    "rivals": {}
+  },
+  "21": {
+    "entrant_name": "Lotarr",
+    "rivals": {
+      "72": "tommoda",
+      "217": "callmisoko"
+    }
+  },
+  "22": {
+    "entrant_name": "eightbitderp",
+    "rivals": {}
+  },
+  "23": {
+    "entrant_name": "BrotherMojo",
+    "rivals": {
+      "16": "GWen",
+      "259": "Exschwasion",
+      "279": "dekw"
+    }
+  },
+  "25": {
+    "entrant_name": "Formless",
+    "rivals": {
+      "49": "DJPandaga",
+      "198": "Faker13",
+      "230": "ruunix2"
+    }
+  },
+  "26": {
+    "entrant_name": "plight",
+    "rivals": {
+      "722": "Mallow"
+    }
+  },
+  "27": {
+    "entrant_name": "MajorOfMusic",
+    "rivals": {
+      "25": "Formless",
+      "49": "DJPandaga"
+    }
+  },
+  "28": {
+    "entrant_name": "dancingmaractus",
+    "rivals": {
+      "52": "sangyule",
+      "261": "Snil4",
+      "342": "CarterTheQ",
+      "627": "ZOM"
+    }
+  },
+  "29": {
+    "entrant_name": "Rarily",
+    "rivals": {
+      "22": "eightbitderp",
+      "61": "PinkDad",
+      "74": "BreakfastPM",
+      "92": "Smalls",
+      "228": "Cheerio",
+      "236": "stormpegy",
+      "384": "Benpai",
+      "478": "Cowboy Tony (NO BAR)",
+      "487": "Auryn",
+      "507": "chroma"
+    }
+  },
+  "30": {
+    "entrant_name": "Zeipher_Hawk",
+    "rivals": {
+      "231": "andkaseywaslike",
+      "499": "nabulator"
+    }
+  },
+  "31": {
+    "entrant_name": "plasmaaa",
+    "rivals": {
+      "8": "Zankoku",
+      "68": "flip",
+      "387": "asellus",
+      "488": "Vestrel"
+    }
+  },
+  "33": {
+    "entrant_name": "Lumi",
+    "rivals": {
+      "10": "DDRFanatik25",
+      "17": "Hunter",
+      "38": "RAKKII-san",
+      "51": "NaoHikari",
+      "52": "sangyule",
+      "58": "Kerpa",
+      "64": "Renbrandt",
+      "78": "DDDAAA",
+      "177": "Halogen-",
+      "199": "Quesadilla",
+      "230": "ruunix2",
+      "384": "Benpai",
+      "438": "Zui87",
+      "488": "Vestrel"
+    }
+  },
+  "34": {
+    "entrant_name": "sorae",
+    "rivals": {
+      "26": "plight",
+      "40": "1ug1a",
+      "53": "mangoafterdawn",
+      "80": "Tetaes",
+      "292": "CERiNG"
+    }
+  },
+  "35": {
+    "entrant_name": "Ky_Dash",
+    "rivals": {}
+  },
+  "36": {
+    "entrant_name": "mustanginexile",
+    "rivals": {}
+  },
+  "37": {
+    "entrant_name": "Blizzrdball",
+    "rivals": {
+      "50": "sekiirei",
+      "445": "TheManwich",
+      "482": "Frantalicious"
+    }
+  },
+  "38": {
+    "entrant_name": "RAKKII-san",
+    "rivals": {
+      "33": "Lumi",
+      "104": "kaosddr",
+      "147": "JeffreyATW"
+    }
+  },
+  "39": {
+    "entrant_name": "IcyCold",
+    "rivals": {
+      "247": "babyzionov"
+    }
+  },
+  "40": {
+    "entrant_name": "1ug1a",
+    "rivals": {}
+  },
+  "41": {
+    "entrant_name": "trescal",
+    "rivals": {
+      "155": "Ghelyr",
+      "326": "XjojoX99",
+      "489": "No-bar Ben"
+    }
+  },
+  "42": {
+    "entrant_name": "sighmoe",
+    "rivals": {
+      "1": "VincentITG",
+      "14": "iBBlon"
+    }
+  },
+  "43": {
+    "entrant_name": "sudzi781",
+    "rivals": {}
+  },
+  "44": {
+    "entrant_name": "kodensa",
+    "rivals": {}
+  },
+  "45": {
+    "entrant_name": "Hamaon",
+    "rivals": {
+      "2": "teejusb",
+      "288": "FabSab44",
+      "406": "Paige"
+    }
+  },
+  "46": {
+    "entrant_name": "Captain Carbon",
+    "rivals": {
+      "3": "TommyDoesntMiss",
+      "55": "titandude21",
+      "132": "Cyxsound",
+      "167": "dusk",
+      "198": "Faker13"
+    }
+  },
+  "47": {
+    "entrant_name": "AtmaWeaponX",
+    "rivals": {}
+  },
+  "48": {
+    "entrant_name": "Franksoua",
+    "rivals": {
+      "19": "Xynn",
+      "617": "B3NS3X"
+    }
+  },
+  "49": {
+    "entrant_name": "DJPandaga",
+    "rivals": {}
+  },
+  "50": {
+    "entrant_name": "sekiirei",
+    "rivals": {
+      "37": "Blizzrdball"
+    }
+  },
+  "51": {
+    "entrant_name": "NaoHikari",
+    "rivals": {}
+  },
+  "52": {
+    "entrant_name": "sangyule",
+    "rivals": {
+      "28": "dancingmaractus"
+    }
+  },
+  "53": {
+    "entrant_name": "mangoafterdawn",
+    "rivals": {
+      "34": "sorae",
+      "80": "Tetaes",
+      "292": "CERiNG",
+      "722": "Mallow"
+    }
+  },
+  "54": {
+    "entrant_name": "JuiKuen",
+    "rivals": {}
+  },
+  "55": {
+    "entrant_name": "titandude21",
+    "rivals": {}
+  },
+  "56": {
+    "entrant_name": "LEISHEN.",
+    "rivals": {
+      "19": "Xynn"
+    }
+  },
+  "58": {
+    "entrant_name": "Kerpa",
+    "rivals": {
+      "29": "Rarily",
+      "40": "1ug1a",
+      "52": "sangyule",
+      "136": "TrooperOda",
+      "338": "Gr00txD",
+      "342": "CarterTheQ",
+      "384": "Benpai",
+      "389": "L4viR",
+      "569": "gonekim116"
+    }
+  },
+  "59": {
+    "entrant_name": "Frky",
+    "rivals": {}
+  },
+  "60": {
+    "entrant_name": "NinuKinuski",
+    "rivals": {
+      "106": "Fake Flake",
+      "529": "jemihon"
+    }
+  },
+  "61": {
+    "entrant_name": "PinkDad",
+    "rivals": {
+      "16": "GWen",
+      "111": "Yaksa",
+      "368": "joshhead"
+    }
+  },
+  "62": {
+    "entrant_name": "ChubbyPuppy",
+    "rivals": {}
+  },
+  "63": {
+    "entrant_name": "Highflyer",
+    "rivals": {
+      "124": "HellKiteChaos",
+      "293": "Shane_ITG_",
+      "734": "7ten"
+    }
+  },
+  "64": {
+    "entrant_name": "Renbrandt",
+    "rivals": {
+      "400": "beeabay"
+    }
+  },
+  "66": {
+    "entrant_name": "fastboy",
+    "rivals": {
+      "328": "slime",
+      "566": "BigYama",
+      "573": "LT"
+    }
+  },
+  "67": {
+    "entrant_name": "sk8snollie",
+    "rivals": {}
+  },
+  "68": {
+    "entrant_name": "flip",
+    "rivals": {}
+  },
+  "69": {
+    "entrant_name": "DGY.Synthromancy",
+    "rivals": {}
+  },
+  "72": {
+    "entrant_name": "tommoda",
+    "rivals": {
+      "21": "Lotarr",
+      "217": "callmisoko"
+    }
+  },
+  "73": {
+    "entrant_name": "ZarinahBBM",
+    "rivals": {
+      "5": "Zarzob",
+      "30": "Zeipher_Hawk",
+      "41": "trescal",
+      "63": "Highflyer",
+      "68": "flip",
+      "177": "Halogen-",
+      "181": "ddrneel",
+      "199": "Quesadilla",
+      "221": "nvanleerdrums",
+      "336": "sumikk0",
+      "359": "ManeMan08",
+      "399": "Freyja",
+      "478": "Cowboy Tony (NO BAR)"
+    }
+  },
+  "74": {
+    "entrant_name": "BreakfastPM",
+    "rivals": {
+      "9": "DGY.azirixx",
+      "29": "Rarily",
+      "50": "sekiirei",
+      "107": "MrTwinkles",
+      "112": "MissFitITG",
+      "179": "NinjaNabi",
+      "223": "trueblue410",
+      "228": "Cheerio",
+      "355": "Dyne322",
+      "368": "joshhead",
+      "370": "Cxxxx"
+    }
+  },
+  "75": {
+    "entrant_name": "amaiiberry",
+    "rivals": {}
+  },
+  "76": {
+    "entrant_name": "Maxx-Storm",
+    "rivals": {
+      "13": "dimo",
+      "87": "Jester",
+      "149": "DF.Chunka"
+    }
+  },
+  "77": {
+    "entrant_name": "cmmf",
+    "rivals": {
+      "132": "Cyxsound",
+      "180": "Freis",
+      "260": "talkion",
+      "478": "Cowboy Tony (NO BAR)"
+    }
+  },
+  "78": {
+    "entrant_name": "DDDAAA",
+    "rivals": {
+      "33": "Lumi",
+      "175": "wrsw",
+      "279": "dekw"
+    }
+  },
+  "79": {
+    "entrant_name": "Chabala",
+    "rivals": {
+      "17": "Hunter",
+      "289": "BSENSS6"
+    }
+  },
+  "80": {
+    "entrant_name": "Tetaes",
+    "rivals": {
+      "26": "plight",
+      "34": "sorae",
+      "53": "mangoafterdawn",
+      "287": "TaroNuke",
+      "291": "Mayflower",
+      "292": "CERiNG",
+      "722": "Mallow"
+    }
+  },
+  "81": {
+    "entrant_name": "Twix",
+    "rivals": {
+      "76": "Maxx-Storm",
+      "335": "Kaze"
+    }
+  },
+  "82": {
+    "entrant_name": "H8EVRYTHNG",
+    "rivals": {
+      "197": "Gumbygum",
+      "223": "trueblue410",
+      "403": "itsjusowl"
+    }
+  },
+  "83": {
+    "entrant_name": "lolipo",
+    "rivals": {
+      "14": "iBBlon",
+      "42": "sighmoe",
+      "86": "TadofTony",
+      "123": "JJK",
+      "517": "Lilo"
+    }
+  },
+  "85": {
+    "entrant_name": "saminator002",
+    "rivals": {}
+  },
+  "86": {
+    "entrant_name": "TadofTony",
+    "rivals": {
+      "4": "VivaLaMoo",
+      "13": "dimo",
+      "83": "lolipo",
+      "89": "Vilepickle"
+    }
+  },
+  "87": {
+    "entrant_name": "Jester",
+    "rivals": {
+      "524": "ryany0"
+    }
+  },
+  "88": {
+    "entrant_name": "Cheeze",
+    "rivals": {
+      "202": "TopherK",
+      "420": "Darkuo "
+    }
+  },
+  "89": {
+    "entrant_name": "Vilepickle",
+    "rivals": {
+      "55": "titandude21",
+      "86": "TadofTony",
+      "90": "Shpadoinkle",
+      "131": "Higgy",
+      "212": "dgraham",
+      "260": "talkion",
+      "417": "iGoCollege",
+      "624": "ortiz"
+    }
+  },
+  "90": {
+    "entrant_name": "Shpadoinkle",
+    "rivals": {
+      "3": "TommyDoesntMiss",
+      "64": "Renbrandt",
+      "397": "Opartyjesper",
+      "418": "ATB"
+    }
+  },
+  "91": {
+    "entrant_name": "natano",
+    "rivals": {}
+  },
+  "92": {
+    "entrant_name": "Smalls",
+    "rivals": {}
+  },
+  "93": {
+    "entrant_name": "Ulv",
+    "rivals": {}
+  },
+  "94": {
+    "entrant_name": "Avaloneum",
+    "rivals": {}
+  },
+  "95": {
+    "entrant_name": "Valex",
+    "rivals": {
+      "7": "bkirz",
+      "138": "DRON",
+      "175": "wrsw",
+      "231": "andkaseywaslike",
+      "399": "Freyja"
+    }
+  },
+  "96": {
+    "entrant_name": "Daikyi",
+    "rivals": {
+      "259": "Exschwasion",
+      "287": "TaroNuke"
+    }
+  },
+  "97": {
+    "entrant_name": "teri",
+    "rivals": {
+      "26": "plight",
+      "259": "Exschwasion"
+    }
+  },
+  "98": {
+    "entrant_name": "din",
+    "rivals": {}
+  },
+  "99": {
+    "entrant_name": "nastharl",
+    "rivals": {}
+  },
+  "100": {
+    "entrant_name": "Maxximus",
+    "rivals": {}
+  },
+  "101": {
+    "entrant_name": "limitin",
+    "rivals": {
+      "15": "Bag Man"
+    }
+  },
+  "102": {
+    "entrant_name": "Dave Tarma",
+    "rivals": {}
+  },
+  "103": {
+    "entrant_name": "Teperoo",
+    "rivals": {
+      "524": "ryany0"
+    }
+  },
+  "104": {
+    "entrant_name": "kaosddr",
+    "rivals": {}
+  },
+  "105": {
+    "entrant_name": "Bran",
+    "rivals": {}
+  },
+  "106": {
+    "entrant_name": "Fake Flake",
+    "rivals": {}
+  },
+  "107": {
+    "entrant_name": "MrTwinkles",
+    "rivals": {
+      "354": "xancara",
+      "600": "Kikoia"
+    }
+  },
+  "108": {
+    "entrant_name": "Gyzarus",
+    "rivals": {}
+  },
+  "109": {
+    "entrant_name": "aboutseven",
+    "rivals": {}
+  },
+  "110": {
+    "entrant_name": "ibuprofen",
+    "rivals": {}
+  },
+  "111": {
+    "entrant_name": "Yaksa",
+    "rivals": {
+      "485": "bobayubi"
+    }
+  },
+  "112": {
+    "entrant_name": "MissFitITG",
+    "rivals": {}
+  },
+  "113": {
+    "entrant_name": "Endymion",
+    "rivals": {
+      "396": "Coneja"
+    }
+  },
+  "114": {
+    "entrant_name": "skateinmars",
+    "rivals": {
+      "496": "Catz",
+      "533": "Kaede_noBar"
+    }
+  },
+  "115": {
+    "entrant_name": "soriin_k",
+    "rivals": {}
+  },
+  "116": {
+    "entrant_name": "Roujo",
+    "rivals": {
+      "463": "Mango"
+    }
+  },
+  "117": {
+    "entrant_name": "CrashCringle12",
+    "rivals": {
+      "230": "ruunix2",
+      "602": "Karaclysm"
+    }
+  },
+  "118": {
+    "entrant_name": "D4RK",
+    "rivals": {
+      "561": "estebantelz1216"
+    }
+  },
+  "120": {
+    "entrant_name": "Dancefreak",
+    "rivals": {}
+  },
+  "121": {
+    "entrant_name": "DanPeriod",
+    "rivals": {
+      "436": "zxevik",
+      "499": "nabulator"
+    }
+  },
+  "122": {
+    "entrant_name": "RizGod",
+    "rivals": {}
+  },
+  "123": {
+    "entrant_name": "JJK",
+    "rivals": {}
+  },
+  "124": {
+    "entrant_name": "HellKiteChaos",
+    "rivals": {
+      "269": "MY BRAND",
+      "354": "xancara"
+    }
+  },
+  "125": {
+    "entrant_name": "nico",
+    "rivals": {}
+  },
+  "128": {
+    "entrant_name": "Loak",
+    "rivals": {
+      "18": "mute",
+      "257": "RAN.S"
+    }
+  },
+  "131": {
+    "entrant_name": "Higgy",
+    "rivals": {
+      "89": "Vilepickle"
+    }
+  },
+  "132": {
+    "entrant_name": "Cyxsound",
+    "rivals": {
+      "77": "cmmf",
+      "180": "Freis",
+      "189": "airplane"
+    }
+  },
+  "134": {
+    "entrant_name": "PaddyCo",
+    "rivals": {}
+  },
+  "135": {
+    "entrant_name": "Nobu150",
+    "rivals": {}
+  },
+  "136": {
+    "entrant_name": "TrooperOda",
+    "rivals": {
+      "320": "Pimentaw",
+      "338": "Gr00txD",
+      "389": "L4viR"
+    }
+  },
+  "138": {
+    "entrant_name": "DRON",
+    "rivals": {
+      "95": "Valex",
+      "166": "palacebeast"
+    }
+  },
+  "139": {
+    "entrant_name": "Peabody!",
+    "rivals": {
+      "101": "limitin"
+    }
+  },
+  "140": {
+    "entrant_name": "drillbot",
+    "rivals": {
+      "134": "PaddyCo",
+      "187": "AMintyDragon",
+      "588": "Kaju_Inu"
+    }
+  },
+  "141": {
+    "entrant_name": "Steve_V",
+    "rivals": {}
+  },
+  "142": {
+    "entrant_name": "warriorddr",
+    "rivals": {
+      "424": "bersoka",
+      "703": "MILO"
+    }
+  },
+  "143": {
+    "entrant_name": "bogo",
+    "rivals": {}
+  },
+  "144": {
+    "entrant_name": "MarsBMC",
+    "rivals": {
+      "223": "trueblue410",
+      "326": "XjojoX99",
+      "450": "CompleteYoshi"
+    }
+  },
+  "145": {
+    "entrant_name": "Snow Latte",
+    "rivals": {}
+  },
+  "146": {
+    "entrant_name": "Braeden",
+    "rivals": {}
+  },
+  "147": {
+    "entrant_name": "JeffreyATW",
+    "rivals": {
+      "104": "kaosddr"
+    }
+  },
+  "148": {
+    "entrant_name": "kiko",
+    "rivals": {}
+  },
+  "149": {
+    "entrant_name": "DF.Chunka",
+    "rivals": {
+      "76": "Maxx-Storm",
+      "207": "VERTEX KIO"
+    }
+  },
+  "151": {
+    "entrant_name": "PRKrono",
+    "rivals": {
+      "81": "Twix"
+    }
+  },
+  "152": {
+    "entrant_name": "Murd",
+    "rivals": {
+      "261": "Snil4",
+      "463": "Mango"
+    }
+  },
+  "153": {
+    "entrant_name": "vintogigue",
+    "rivals": {}
+  },
+  "154": {
+    "entrant_name": "jck!!",
+    "rivals": {}
+  },
+  "155": {
+    "entrant_name": "Ghelyr",
+    "rivals": {}
+  },
+  "156": {
+    "entrant_name": "Silver Fox",
+    "rivals": {
+      "429": "Viper",
+      "438": "Zui87"
+    }
+  },
+  "157": {
+    "entrant_name": "copas",
+    "rivals": {
+      "517": "Lilo",
+      "593": "FRCO"
+    }
+  },
+  "158": {
+    "entrant_name": "takumiAE86",
+    "rivals": {
+      "165": "lafv54",
+      "703": "MILO"
+    }
+  },
+  "159": {
+    "entrant_name": "Fireblaster",
+    "rivals": {}
+  },
+  "160": {
+    "entrant_name": "MIKO491",
+    "rivals": {
+      "316": "Lokovodo"
+    }
+  },
+  "161": {
+    "entrant_name": "fish",
+    "rivals": {
+      "418": "ATB"
+    }
+  },
+  "162": {
+    "entrant_name": "Whipplash",
+    "rivals": {}
+  },
+  "163": {
+    "entrant_name": "TroyNK",
+    "rivals": {
+      "334": "PkGam",
+      "438": "Zui87"
+    }
+  },
+  "165": {
+    "entrant_name": "lafv54",
+    "rivals": {
+      "640": "San19"
+    }
+  },
+  "166": {
+    "entrant_name": "palacebeast",
+    "rivals": {
+      "95": "Valex",
+      "138": "DRON",
+      "187": "AMintyDragon",
+      "274": "Spooty",
+      "321": "Telperion",
+      "378": "WinDEU",
+      "588": "Kaju_Inu",
+      "612": "DragonDelgar"
+    }
+  },
+  "167": {
+    "entrant_name": "dusk",
+    "rivals": {}
+  },
+  "168": {
+    "entrant_name": "Cephiros",
+    "rivals": {
+      "111": "Yaksa"
+    }
+  },
+  "170": {
+    "entrant_name": "Thumbsy",
+    "rivals": {
+      "525": "Mingeh",
+      "724": "Electromuis"
+    }
+  },
+  "171": {
+    "entrant_name": "martinbirch",
+    "rivals": {}
+  },
+  "172": {
+    "entrant_name": "Brendino",
+    "rivals": {}
+  },
+  "173": {
+    "entrant_name": "putham",
+    "rivals": {
+      "216": "centripital",
+      "239": "RumiKon"
+    }
+  },
+  "174": {
+    "entrant_name": "MURDER.Flash",
+    "rivals": {
+      "207": "VERTEX KIO"
+    }
+  },
+  "175": {
+    "entrant_name": "wrsw",
+    "rivals": {
+      "38": "RAKKII-san",
+      "78": "DDDAAA",
+      "221": "nvanleerdrums"
+    }
+  },
+  "176": {
+    "entrant_name": "nv",
+    "rivals": {
+      "463": "Mango"
+    }
+  },
+  "177": {
+    "entrant_name": "Halogen-",
+    "rivals": {
+      "378": "WinDEU"
+    }
+  },
+  "179": {
+    "entrant_name": "NinjaNabi",
+    "rivals": {
+      "10": "DDRFanatik25",
+      "61": "PinkDad",
+      "74": "BreakfastPM",
+      "112": "MissFitITG",
+      "406": "Paige",
+      "448": "Jkurs"
+    }
+  },
+  "180": {
+    "entrant_name": "Freis",
+    "rivals": {
+      "3": "TommyDoesntMiss",
+      "67": "sk8snollie",
+      "86": "TadofTony",
+      "212": "dgraham",
+      "260": "talkion",
+      "579": "McYTG"
+    }
+  },
+  "181": {
+    "entrant_name": "ddrneel",
+    "rivals": {}
+  },
+  "184": {
+    "entrant_name": "xiaowuc1",
+    "rivals": {
+      "147": "JeffreyATW"
+    }
+  },
+  "185": {
+    "entrant_name": "Cathadan",
+    "rivals": {}
+  },
+  "186": {
+    "entrant_name": "CopperPuppy",
+    "rivals": {}
+  },
+  "187": {
+    "entrant_name": "AMintyDragon",
+    "rivals": {
+      "166": "palacebeast",
+      "274": "Spooty",
+      "588": "Kaju_Inu",
+      "612": "DragonDelgar"
+    }
+  },
+  "189": {
+    "entrant_name": "airplane",
+    "rivals": {
+      "704": "HISA"
+    }
+  },
+  "190": {
+    "entrant_name": "kadef",
+    "rivals": {}
+  },
+  "191": {
+    "entrant_name": "dom no bar",
+    "rivals": {
+      "91": "natano",
+      "165": "lafv54",
+      "246": "clue",
+      "548": "42",
+      "666": "Amoo"
+    }
+  },
+  "192": {
+    "entrant_name": "lucdar",
+    "rivals": {}
+  },
+  "193": {
+    "entrant_name": "ipie4fun",
+    "rivals": {}
+  },
+  "196": {
+    "entrant_name": "JEN86",
+    "rivals": {}
+  },
+  "197": {
+    "entrant_name": "Gumbygum",
+    "rivals": {
+      "82": "H8EVRYTHNG"
+    }
+  },
+  "198": {
+    "entrant_name": "Faker13",
+    "rivals": {
+      "25": "Formless",
+      "49": "DJPandaga",
+      "392": "Pushmataha"
+    }
+  },
+  "199": {
+    "entrant_name": "Quesadilla",
+    "rivals": {
+      "627": "ZOM"
+    }
+  },
+  "200": {
+    "entrant_name": "DaveGS",
+    "rivals": {
+      "499": "nabulator"
+    }
+  },
+  "202": {
+    "entrant_name": "TopherK",
+    "rivals": {
+      "88": "Cheeze",
+      "420": "Darkuo "
+    }
+  },
+  "204": {
+    "entrant_name": "omgukk",
+    "rivals": {
+      "268": "Okina",
+      "369": "LuckJury"
+    }
+  },
+  "205": {
+    "entrant_name": "Sbaz ",
+    "rivals": {}
+  },
+  "206": {
+    "entrant_name": "NicholasNRG",
+    "rivals": {}
+  },
+  "207": {
+    "entrant_name": "VERTEX KIO",
+    "rivals": {
+      "331": "AngelR4vE",
+      "444": "GenesisRapshodos",
+      "561": "estebantelz1216",
+      "593": "FRCO"
+    }
+  },
+  "208": {
+    "entrant_name": "djlunatix",
+    "rivals": {}
+  },
+  "209": {
+    "entrant_name": "kidboo377",
+    "rivals": {}
+  },
+  "210": {
+    "entrant_name": "CMA",
+    "rivals": {}
+  },
+  "211": {
+    "entrant_name": "JONBUDDY",
+    "rivals": {
+      "619": "Aoba"
+    }
+  },
+  "212": {
+    "entrant_name": "dgraham",
+    "rivals": {}
+  },
+  "213": {
+    "entrant_name": "marqqq",
+    "rivals": {
+      "197": "Gumbygum",
+      "321": "Telperion"
+    }
+  },
+  "214": {
+    "entrant_name": "yocto",
+    "rivals": {
+      "249": "Darkstar"
+    }
+  },
+  "216": {
+    "entrant_name": "centripital",
+    "rivals": {
+      "173": "putham",
+      "239": "RumiKon"
+    }
+  },
+  "217": {
+    "entrant_name": "callmisoko",
+    "rivals": {
+      "21": "Lotarr",
+      "72": "tommoda"
+    }
+  },
+  "218": {
+    "entrant_name": "anisakis",
+    "rivals": {}
+  },
+  "219": {
+    "entrant_name": "Boingloing",
+    "rivals": {
+      "237": "Kibazuka"
+    }
+  },
+  "220": {
+    "entrant_name": "Tuhka",
+    "rivals": {}
+  },
+  "221": {
+    "entrant_name": "nvanleerdrums",
+    "rivals": {
+      "11": "Squeens"
+    }
+  },
+  "223": {
+    "entrant_name": "trueblue410",
+    "rivals": {
+      "74": "BreakfastPM"
+    }
+  },
+  "225": {
+    "entrant_name": "Illuminoir",
+    "rivals": {
+      "533": "Kaede_noBar"
+    }
+  },
+  "226": {
+    "entrant_name": "PkRynker",
+    "rivals": {
+      "149": "DF.Chunka"
+    }
+  },
+  "228": {
+    "entrant_name": "Cheerio",
+    "rivals": {
+      "22": "eightbitderp",
+      "368": "joshhead"
+    }
+  },
+  "230": {
+    "entrant_name": "ruunix2",
+    "rivals": {
+      "25": "Formless",
+      "117": "CrashCringle12"
+    }
+  },
+  "231": {
+    "entrant_name": "andkaseywaslike",
+    "rivals": {}
+  },
+  "232": {
+    "entrant_name": "Hugh Janus",
+    "rivals": {
+      "149": "DF.Chunka"
+    }
+  },
+  "234": {
+    "entrant_name": "Daggett",
+    "rivals": {}
+  },
+  "235": {
+    "entrant_name": "scientificRex",
+    "rivals": {}
+  },
+  "236": {
+    "entrant_name": "stormpegy",
+    "rivals": {
+      "29": "Rarily",
+      "217": "callmisoko"
+    }
+  },
+  "237": {
+    "entrant_name": "Kibazuka",
+    "rivals": {
+      "219": "Boingloing"
+    }
+  },
+  "239": {
+    "entrant_name": "RumiKon",
+    "rivals": {
+      "173": "putham",
+      "216": "centripital"
+    }
+  },
+  "241": {
+    "entrant_name": "Atehortua",
+    "rivals": {}
+  },
+  "242": {
+    "entrant_name": "Yokamaa",
+    "rivals": {}
+  },
+  "243": {
+    "entrant_name": "PUYO",
+    "rivals": {}
+  },
+  "244": {
+    "entrant_name": "Gpop",
+    "rivals": {
+      "288": "FabSab44",
+      "686": "felinecity"
+    }
+  },
+  "245": {
+    "entrant_name": "NekoSteps",
+    "rivals": {}
+  },
+  "246": {
+    "entrant_name": "clue",
+    "rivals": {
+      "134": "PaddyCo",
+      "191": "dom no bar"
+    }
+  },
+  "247": {
+    "entrant_name": "babyzionov",
+    "rivals": {
+      "39": "IcyCold",
+      "75": "amaiiberry"
+    }
+  },
+  "248": {
+    "entrant_name": "Slowest",
+    "rivals": {
+      "39": "IcyCold",
+      "75": "amaiiberry",
+      "247": "babyzionov"
+    }
+  },
+  "249": {
+    "entrant_name": "Darkstar",
+    "rivals": {
+      "214": "yocto"
+    }
+  },
+  "250": {
+    "entrant_name": "Marbels",
+    "rivals": {}
+  },
+  "251": {
+    "entrant_name": "Rudeshadow",
+    "rivals": {
+      "613": "sidopolis"
+    }
+  },
+  "253": {
+    "entrant_name": "Ash ketchum!",
+    "rivals": {
+      "611": "CAMIX"
+    }
+  },
+  "254": {
+    "entrant_name": "Horsey",
+    "rivals": {}
+  },
+  "255": {
+    "entrant_name": "drc84",
+    "rivals": {}
+  },
+  "257": {
+    "entrant_name": "RAN.S",
+    "rivals": {
+      "128": "Loak"
+    }
+  },
+  "259": {
+    "entrant_name": "Exschwasion",
+    "rivals": {
+      "40": "1ug1a",
+      "96": "Daikyi",
+      "287": "TaroNuke"
+    }
+  },
+  "260": {
+    "entrant_name": "talkion",
+    "rivals": {
+      "77": "cmmf",
+      "180": "Freis",
+      "212": "dgraham",
+      "321": "Telperion",
+      "489": "No-bar Ben"
+    }
+  },
+  "261": {
+    "entrant_name": "Snil4",
+    "rivals": {}
+  },
+  "264": {
+    "entrant_name": "CobaltSunshine",
+    "rivals": {}
+  },
+  "265": {
+    "entrant_name": "LaplaceFox",
+    "rivals": {}
+  },
+  "266": {
+    "entrant_name": "camsta4",
+    "rivals": {}
+  },
+  "268": {
+    "entrant_name": "Okina",
+    "rivals": {}
+  },
+  "269": {
+    "entrant_name": "MY BRAND",
+    "rivals": {
+      "124": "HellKiteChaos"
+    }
+  },
+  "270": {
+    "entrant_name": "VvITL",
+    "rivals": {}
+  },
+  "273": {
+    "entrant_name": "djMHT",
+    "rivals": {
+      "255": "drc84",
+      "452": "The_DJax"
+    }
+  },
+  "274": {
+    "entrant_name": "Spooty",
+    "rivals": {
+      "95": "Valex",
+      "255": "drc84",
+      "378": "WinDEU"
+    }
+  },
+  "276": {
+    "entrant_name": "RatherBe",
+    "rivals": {
+      "527": "Belarin"
+    }
+  },
+  "277": {
+    "entrant_name": "Dr.0ctgonapus",
+    "rivals": {}
+  },
+  "278": {
+    "entrant_name": "jenx",
+    "rivals": {
+      "91": "natano"
+    }
+  },
+  "279": {
+    "entrant_name": "dekw",
+    "rivals": {
+      "78": "DDDAAA"
+    }
+  },
+  "280": {
+    "entrant_name": "Accioskullar",
+    "rivals": {}
+  },
+  "281": {
+    "entrant_name": "samross",
+    "rivals": {}
+  },
+  "283": {
+    "entrant_name": "luda",
+    "rivals": {}
+  },
+  "284": {
+    "entrant_name": "FuriousDCSL",
+    "rivals": {}
+  },
+  "285": {
+    "entrant_name": "implode",
+    "rivals": {
+      "18": "mute"
+    }
+  },
+  "286": {
+    "entrant_name": "nomstaiters",
+    "rivals": {}
+  },
+  "287": {
+    "entrant_name": "TaroNuke",
+    "rivals": {
+      "96": "Daikyi",
+      "291": "Mayflower"
+    }
+  },
+  "288": {
+    "entrant_name": "FabSab44",
+    "rivals": {
+      "406": "Paige"
+    }
+  },
+  "289": {
+    "entrant_name": "BSENSS6",
+    "rivals": {
+      "17": "Hunter"
+    }
+  },
+  "291": {
+    "entrant_name": "Mayflower",
+    "rivals": {}
+  },
+  "292": {
+    "entrant_name": "CERiNG",
+    "rivals": {
+      "34": "sorae",
+      "80": "Tetaes"
+    }
+  },
+  "293": {
+    "entrant_name": "Shane_ITG_",
+    "rivals": {
+      "734": "7ten"
+    }
+  },
+  "294": {
+    "entrant_name": "Paranoia Boi",
+    "rivals": {}
+  },
+  "296": {
+    "entrant_name": "mattm",
+    "rivals": {}
+  },
+  "298": {
+    "entrant_name": "som1sezhi",
+    "rivals": {}
+  },
+  "300": {
+    "entrant_name": "Yung ButtCoin",
+    "rivals": {
+      "18": "mute"
+    }
+  },
+  "301": {
+    "entrant_name": "MegurineLuka",
+    "rivals": {}
+  },
+  "302": {
+    "entrant_name": "ApexAzimuth",
+    "rivals": {}
+  },
+  "304": {
+    "entrant_name": "bluechows",
+    "rivals": {}
+  },
+  "306": {
+    "entrant_name": "TaymanND",
+    "rivals": {}
+  },
+  "309": {
+    "entrant_name": "xRaPpApErx",
+    "rivals": {
+      "293": "Shane_ITG_"
+    }
+  },
+  "310": {
+    "entrant_name": "Aldarole",
+    "rivals": {}
+  },
+  "311": {
+    "entrant_name": "alcohime",
+    "rivals": {}
+  },
+  "312": {
+    "entrant_name": "Rooney",
+    "rivals": {}
+  },
+  "313": {
+    "entrant_name": "LILCaleb",
+    "rivals": {}
+  },
+  "314": {
+    "entrant_name": "Dayani",
+    "rivals": {
+      "179": "NinjaNabi",
+      "328": "slime",
+      "566": "BigYama",
+      "573": "LT"
+    }
+  },
+  "315": {
+    "entrant_name": "Mau",
+    "rivals": {}
+  },
+  "316": {
+    "entrant_name": "Lokovodo",
+    "rivals": {}
+  },
+  "317": {
+    "entrant_name": "miklowcic",
+    "rivals": {
+      "104": "kaosddr"
+    }
+  },
+  "320": {
+    "entrant_name": "Pimentaw",
+    "rivals": {
+      "136": "TrooperOda",
+      "338": "Gr00txD",
+      "389": "L4viR",
+      "718": "oggvaldo"
+    }
+  },
+  "321": {
+    "entrant_name": "Telperion",
+    "rivals": {
+      "77": "cmmf",
+      "166": "palacebeast",
+      "515": "alecksaur"
+    }
+  },
+  "322": {
+    "entrant_name": "Tung",
+    "rivals": {}
+  },
+  "323": {
+    "entrant_name": "goodbye",
+    "rivals": {}
+  },
+  "324": {
+    "entrant_name": "NYOOOOOM",
+    "rivals": {}
+  },
+  "325": {
+    "entrant_name": "Hamlette",
+    "rivals": {}
+  },
+  "326": {
+    "entrant_name": "XjojoX99",
+    "rivals": {
+      "41": "trescal"
+    }
+  },
+  "327": {
+    "entrant_name": "ITGAlex",
+    "rivals": {}
+  },
+  "328": {
+    "entrant_name": "slime",
+    "rivals": {
+      "66": "fastboy",
+      "566": "BigYama"
+    }
+  },
+  "330": {
+    "entrant_name": "Cozy",
+    "rivals": {}
+  },
+  "331": {
+    "entrant_name": "AngelR4vE",
+    "rivals": {
+      "142": "warriorddr",
+      "207": "VERTEX KIO",
+      "218": "anisakis",
+      "320": "Pimentaw",
+      "404": "Koso",
+      "424": "bersoka",
+      "444": "GenesisRapshodos",
+      "593": "FRCO"
+    }
+  },
+  "332": {
+    "entrant_name": "Vagabond",
+    "rivals": {}
+  },
+  "333": {
+    "entrant_name": "t3a",
+    "rivals": {
+      "251": "Rudeshadow",
+      "613": "sidopolis"
+    }
+  },
+  "334": {
+    "entrant_name": "PkGam",
+    "rivals": {}
+  },
+  "335": {
+    "entrant_name": "Kaze",
+    "rivals": {
+      "337": "DDRDavo"
+    }
+  },
+  "336": {
+    "entrant_name": "sumikk0",
+    "rivals": {
+      "10": "DDRFanatik25",
+      "11": "Squeens",
+      "147": "JeffreyATW",
+      "181": "ddrneel",
+      "219": "Boingloing"
+    }
+  },
+  "337": {
+    "entrant_name": "DDRDavo",
+    "rivals": {}
+  },
+  "338": {
+    "entrant_name": "Gr00txD",
+    "rivals": {}
+  },
+  "339": {
+    "entrant_name": "Pink Dino",
+    "rivals": {}
+  },
+  "340": {
+    "entrant_name": "wolfxalienware",
+    "rivals": {
+      "450": "CompleteYoshi"
+    }
+  },
+  "341": {
+    "entrant_name": "Eesa",
+    "rivals": {}
+  },
+  "342": {
+    "entrant_name": "CarterTheQ",
+    "rivals": {
+      "28": "dancingmaractus"
+    }
+  },
+  "343": {
+    "entrant_name": "Twilight",
+    "rivals": {}
+  },
+  "344": {
+    "entrant_name": "Dogessa",
+    "rivals": {}
+  },
+  "345": {
+    "entrant_name": "ZoG-",
+    "rivals": {}
+  },
+  "348": {
+    "entrant_name": "NOWHERE Dance Club",
+    "rivals": {
+      "268": "Okina",
+      "355": "Dyne322",
+      "556": "danizom813",
+      "600": "Kikoia",
+      "621": "Minty"
+    }
+  },
+  "351": {
+    "entrant_name": "MrMeatloaf",
+    "rivals": {
+      "273": "djMHT",
+      "452": "The_DJax"
+    }
+  },
+  "352": {
+    "entrant_name": "Sk8mag",
+    "rivals": {}
+  },
+  "353": {
+    "entrant_name": "ElPapaCosmico",
+    "rivals": {}
+  },
+  "354": {
+    "entrant_name": "xancara",
+    "rivals": {}
+  },
+  "355": {
+    "entrant_name": "Dyne322",
+    "rivals": {
+      "556": "danizom813"
+    }
+  },
+  "358": {
+    "entrant_name": "Dreameat",
+    "rivals": {}
+  },
+  "359": {
+    "entrant_name": "ManeMan08",
+    "rivals": {
+      "537": "Zaelyx"
+    }
+  },
+  "362": {
+    "entrant_name": "Navi02U",
+    "rivals": {
+      "579": "McYTG"
+    }
+  },
+  "363": {
+    "entrant_name": "MCXR1987",
+    "rivals": {
+      "640": "San19"
+    }
+  },
+  "364": {
+    "entrant_name": "babyalan",
+    "rivals": {
+      "66": "fastboy"
+    }
+  },
+  "365": {
+    "entrant_name": "cscathysun",
+    "rivals": {
+      "117": "CrashCringle12",
+      "602": "Karaclysm"
+    }
+  },
+  "367": {
+    "entrant_name": "sessu",
+    "rivals": {}
+  },
+  "368": {
+    "entrant_name": "joshhead",
+    "rivals": {
+      "276": "RatherBe"
+    }
+  },
+  "369": {
+    "entrant_name": "LuckJury",
+    "rivals": {}
+  },
+  "370": {
+    "entrant_name": "Cxxxx",
+    "rivals": {
+      "452": "The_DJax"
+    }
+  },
+  "371": {
+    "entrant_name": "azurehaiku",
+    "rivals": {
+      "53": "mangoafterdawn",
+      "291": "Mayflower"
+    }
+  },
+  "372": {
+    "entrant_name": "cg505",
+    "rivals": {}
+  },
+  "373": {
+    "entrant_name": "SawBo",
+    "rivals": {}
+  },
+  "374": {
+    "entrant_name": "phnix",
+    "rivals": {}
+  },
+  "375": {
+    "entrant_name": "Pangolin",
+    "rivals": {}
+  },
+  "377": {
+    "entrant_name": "Shmeagle!",
+    "rivals": {}
+  },
+  "378": {
+    "entrant_name": "WinDEU",
+    "rivals": {
+      "46": "Captain Carbon",
+      "177": "Halogen-",
+      "274": "Spooty"
+    }
+  },
+  "379": {
+    "entrant_name": "Meatyguy",
+    "rivals": {}
+  },
+  "381": {
+    "entrant_name": "Shi0",
+    "rivals": {}
+  },
+  "382": {
+    "entrant_name": "TwoAi",
+    "rivals": {}
+  },
+  "384": {
+    "entrant_name": "Benpai",
+    "rivals": {
+      "342": "CarterTheQ",
+      "468": "Robbumon",
+      "569": "gonekim116"
+    }
+  },
+  "385": {
+    "entrant_name": "LUPIZA",
+    "rivals": {}
+  },
+  "386": {
+    "entrant_name": "luna2108",
+    "rivals": {}
+  },
+  "387": {
+    "entrant_name": "asellus",
+    "rivals": {
+      "488": "Vestrel"
+    }
+  },
+  "389": {
+    "entrant_name": "L4viR",
+    "rivals": {
+      "136": "TrooperOda",
+      "320": "Pimentaw",
+      "718": "oggvaldo"
+    }
+  },
+  "390": {
+    "entrant_name": "OKEiOKEi",
+    "rivals": {}
+  },
+  "392": {
+    "entrant_name": "Pushmataha",
+    "rivals": {
+      "198": "Faker13"
+    }
+  },
+  "394": {
+    "entrant_name": "COLLETnm7",
+    "rivals": {}
+  },
+  "396": {
+    "entrant_name": "Coneja",
+    "rivals": {
+      "113": "Endymion"
+    }
+  },
+  "397": {
+    "entrant_name": "Opartyjesper",
+    "rivals": {
+      "725": "Silke"
+    }
+  },
+  "398": {
+    "entrant_name": "Zlew",
+    "rivals": {
+      "495": "andr"
+    }
+  },
+  "399": {
+    "entrant_name": "Freyja",
+    "rivals": {
+      "2": "teejusb",
+      "5": "Zarzob",
+      "33": "Lumi",
+      "73": "ZarinahBBM",
+      "83": "lolipo",
+      "123": "JJK",
+      "175": "wrsw",
+      "323": "goodbye",
+      "334": "PkGam",
+      "345": "ZoG-",
+      "359": "ManeMan08",
+      "374": "phnix",
+      "479": "Kigha"
+    }
+  },
+  "400": {
+    "entrant_name": "beeabay",
+    "rivals": {
+      "167": "dusk",
+      "424": "bersoka",
+      "431": "TIZZ",
+      "575": "Chrizux"
+    }
+  },
+  "402": {
+    "entrant_name": "Axor",
+    "rivals": {
+      "409": "Lisek",
+      "446": "Arkitev",
+      "553": "Stefe"
+    }
+  },
+  "403": {
+    "entrant_name": "itsjusowl",
+    "rivals": {
+      "82": "H8EVRYTHNG",
+      "197": "Gumbygum"
+    }
+  },
+  "404": {
+    "entrant_name": "Koso",
+    "rivals": {
+      "703": "MILO"
+    }
+  },
+  "405": {
+    "entrant_name": "Leraine",
+    "rivals": {}
+  },
+  "406": {
+    "entrant_name": "Paige",
+    "rivals": {
+      "288": "FabSab44"
+    }
+  },
+  "408": {
+    "entrant_name": "ROBIJO",
+    "rivals": {}
+  },
+  "409": {
+    "entrant_name": "Lisek",
+    "rivals": {
+      "134": "PaddyCo",
+      "446": "Arkitev"
+    }
+  },
+  "410": {
+    "entrant_name": "Maniacal",
+    "rivals": {}
+  },
+  "411": {
+    "entrant_name": "DJCooper",
+    "rivals": {}
+  },
+  "412": {
+    "entrant_name": "INEJ",
+    "rivals": {}
+  },
+  "413": {
+    "entrant_name": "iamBGS",
+    "rivals": {
+      "706": "toxunto"
+    }
+  },
+  "414": {
+    "entrant_name": "SilverFlare",
+    "rivals": {}
+  },
+  "416": {
+    "entrant_name": "thepaperkat",
+    "rivals": {}
+  },
+  "417": {
+    "entrant_name": "iGoCollege",
+    "rivals": {
+      "46": "Captain Carbon"
+    }
+  },
+  "418": {
+    "entrant_name": "ATB",
+    "rivals": {}
+  },
+  "419": {
+    "entrant_name": "Level9Chao",
+    "rivals": {
+      "316": "Lokovodo"
+    }
+  },
+  "420": {
+    "entrant_name": "Darkuo ",
+    "rivals": {
+      "88": "Cheeze",
+      "202": "TopherK"
+    }
+  },
+  "423": {
+    "entrant_name": "nifterific",
+    "rivals": {}
+  },
+  "424": {
+    "entrant_name": "bersoka",
+    "rivals": {
+      "142": "warriorddr",
+      "157": "copas",
+      "444": "GenesisRapshodos",
+      "517": "Lilo",
+      "561": "estebantelz1216"
+    }
+  },
+  "427": {
+    "entrant_name": "Seth",
+    "rivals": {}
+  },
+  "428": {
+    "entrant_name": "gltmkm506",
+    "rivals": {}
+  },
+  "429": {
+    "entrant_name": "Viper",
+    "rivals": {
+      "156": "Silver Fox"
+    }
+  },
+  "431": {
+    "entrant_name": "TIZZ",
+    "rivals": {
+      "400": "beeabay"
+    }
+  },
+  "432": {
+    "entrant_name": "Sakimotor",
+    "rivals": {}
+  },
+  "433": {
+    "entrant_name": "Alex C. Rock",
+    "rivals": {
+      "218": "anisakis"
+    }
+  },
+  "434": {
+    "entrant_name": "Nazrininator",
+    "rivals": {}
+  },
+  "435": {
+    "entrant_name": "$YOHAN$",
+    "rivals": {}
+  },
+  "436": {
+    "entrant_name": "zxevik",
+    "rivals": {
+      "121": "DanPeriod"
+    }
+  },
+  "438": {
+    "entrant_name": "Zui87",
+    "rivals": {
+      "156": "Silver Fox"
+    }
+  },
+  "441": {
+    "entrant_name": "Pinato",
+    "rivals": {}
+  },
+  "444": {
+    "entrant_name": "GenesisRapshodos",
+    "rivals": {
+      "253": "Ash ketchum!"
+    }
+  },
+  "445": {
+    "entrant_name": "TheManwich",
+    "rivals": {
+      "37": "Blizzrdball",
+      "482": "Frantalicious"
+    }
+  },
+  "446": {
+    "entrant_name": "Arkitev",
+    "rivals": {
+      "409": "Lisek",
+      "480": "Ayaka",
+      "553": "Stefe",
+      "633": "neyoru",
+      "694": "Tidek"
+    }
+  },
+  "448": {
+    "entrant_name": "Jkurs",
+    "rivals": {}
+  },
+  "449": {
+    "entrant_name": "Neifion",
+    "rivals": {}
+  },
+  "450": {
+    "entrant_name": "CompleteYoshi",
+    "rivals": {}
+  },
+  "452": {
+    "entrant_name": "The_DJax",
+    "rivals": {
+      "273": "djMHT",
+      "370": "Cxxxx"
+    }
+  },
+  "453": {
+    "entrant_name": "Dean",
+    "rivals": {}
+  },
+  "454": {
+    "entrant_name": "SYN.(period)",
+    "rivals": {}
+  },
+  "456": {
+    "entrant_name": "Daz4",
+    "rivals": {}
+  },
+  "457": {
+    "entrant_name": "pauliwrath",
+    "rivals": {}
+  },
+  "458": {
+    "entrant_name": "kay0ss",
+    "rivals": {}
+  },
+  "459": {
+    "entrant_name": "YoniDaMan",
+    "rivals": {}
+  },
+  "461": {
+    "entrant_name": "Fblthp",
+    "rivals": {}
+  },
+  "463": {
+    "entrant_name": "Mango",
+    "rivals": {
+      "468": "Robbumon"
+    }
+  },
+  "464": {
+    "entrant_name": "geraddr",
+    "rivals": {
+      "450": "CompleteYoshi"
+    }
+  },
+  "468": {
+    "entrant_name": "Robbumon",
+    "rivals": {}
+  },
+  "469": {
+    "entrant_name": "wermi",
+    "rivals": {
+      "398": "Zlew",
+      "446": "Arkitev"
+    }
+  },
+  "470": {
+    "entrant_name": "Urza89",
+    "rivals": {
+      "90": "Shpadoinkle",
+      "105": "Bran",
+      "397": "Opartyjesper",
+      "472": "NBCrescendo"
+    }
+  },
+  "472": {
+    "entrant_name": "NBCrescendo",
+    "rivals": {
+      "470": "Urza89"
+    }
+  },
+  "474": {
+    "entrant_name": "KomboKrusher",
+    "rivals": {}
+  },
+  "477": {
+    "entrant_name": "Ravelan",
+    "rivals": {}
+  },
+  "478": {
+    "entrant_name": "Cowboy Tony (NO BAR)",
+    "rivals": {}
+  },
+  "479": {
+    "entrant_name": "Kigha",
+    "rivals": {
+      "14": "iBBlon",
+      "15": "Bag Man",
+      "174": "MURDER.Flash",
+      "417": "iGoCollege",
+      "436": "zxevik"
+    }
+  },
+  "480": {
+    "entrant_name": "Ayaka",
+    "rivals": {}
+  },
+  "481": {
+    "entrant_name": "Furious_Dan",
+    "rivals": {
+      "121": "DanPeriod"
+    }
+  },
+  "482": {
+    "entrant_name": "Frantalicious",
+    "rivals": {
+      "50": "sekiirei"
+    }
+  },
+  "484": {
+    "entrant_name": "ladymolii",
+    "rivals": {}
+  },
+  "485": {
+    "entrant_name": "bobayubi",
+    "rivals": {}
+  },
+  "487": {
+    "entrant_name": "Auryn",
+    "rivals": {
+      "500": "IzzyLockhardt",
+      "537": "Zaelyx"
+    }
+  },
+  "488": {
+    "entrant_name": "Vestrel",
+    "rivals": {}
+  },
+  "489": {
+    "entrant_name": "No-bar Ben",
+    "rivals": {}
+  },
+  "490": {
+    "entrant_name": "ashastral",
+    "rivals": {}
+  },
+  "491": {
+    "entrant_name": "angelXboy",
+    "rivals": {}
+  },
+  "492": {
+    "entrant_name": "AxelSparkster",
+    "rivals": {}
+  },
+  "493": {
+    "entrant_name": "Moosey",
+    "rivals": {}
+  },
+  "494": {
+    "entrant_name": "SanHelbert",
+    "rivals": {}
+  },
+  "495": {
+    "entrant_name": "andr",
+    "rivals": {
+      "398": "Zlew"
+    }
+  },
+  "496": {
+    "entrant_name": "Catz",
+    "rivals": {
+      "533": "Kaede_noBar"
+    }
+  },
+  "497": {
+    "entrant_name": "LAPIS",
+    "rivals": {}
+  },
+  "499": {
+    "entrant_name": "nabulator",
+    "rivals": {
+      "200": "DaveGS"
+    }
+  },
+  "500": {
+    "entrant_name": "IzzyLockhardt",
+    "rivals": {
+      "487": "Auryn",
+      "537": "Zaelyx"
+    }
+  },
+  "501": {
+    "entrant_name": "z_axis",
+    "rivals": {}
+  },
+  "502": {
+    "entrant_name": "Kheirn",
+    "rivals": {}
+  },
+  "504": {
+    "entrant_name": "Aetherspike",
+    "rivals": {}
+  },
+  "505": {
+    "entrant_name": "Evergreen",
+    "rivals": {}
+  },
+  "507": {
+    "entrant_name": "chroma",
+    "rivals": {}
+  },
+  "508": {
+    "entrant_name": "HBIC.Vogue",
+    "rivals": {}
+  },
+  "509": {
+    "entrant_name": "Desklamp",
+    "rivals": {}
+  },
+  "510": {
+    "entrant_name": "bloobari",
+    "rivals": {}
+  },
+  "511": {
+    "entrant_name": "Kashy",
+    "rivals": {}
+  },
+  "512": {
+    "entrant_name": "Sonny",
+    "rivals": {}
+  },
+  "513": {
+    "entrant_name": "slowandunsteady",
+    "rivals": {}
+  },
+  "514": {
+    "entrant_name": "b4mv",
+    "rivals": {}
+  },
+  "515": {
+    "entrant_name": "alecksaur",
+    "rivals": {
+      "185": "Cathadan"
+    }
+  },
+  "517": {
+    "entrant_name": "Lilo",
+    "rivals": {
+      "157": "copas"
+    }
+  },
+  "519": {
+    "entrant_name": "jeremt",
+    "rivals": {}
+  },
+  "521": {
+    "entrant_name": "kaberosi",
+    "rivals": {}
+  },
+  "524": {
+    "entrant_name": "ryany0",
+    "rivals": {
+      "734": "7ten"
+    }
+  },
+  "525": {
+    "entrant_name": "Mingeh",
+    "rivals": {}
+  },
+  "526": {
+    "entrant_name": "Mason H",
+    "rivals": {}
+  },
+  "527": {
+    "entrant_name": "Belarin",
+    "rivals": {}
+  },
+  "528": {
+    "entrant_name": "Beniplex",
+    "rivals": {
+      "600": "Kikoia"
+    }
+  },
+  "529": {
+    "entrant_name": "jemihon",
+    "rivals": {
+      "60": "NinuKinuski"
+    }
+  },
+  "530": {
+    "entrant_name": "DF.CaptainBlack",
+    "rivals": {
+      "598": "JNero"
+    }
+  },
+  "531": {
+    "entrant_name": "REI_Z3R0",
+    "rivals": {}
+  },
+  "533": {
+    "entrant_name": "Kaede_noBar",
+    "rivals": {}
+  },
+  "535": {
+    "entrant_name": "Sbuxsurg",
+    "rivals": {}
+  },
+  "536": {
+    "entrant_name": "ahchurro111",
+    "rivals": {}
+  },
+  "537": {
+    "entrant_name": "Zaelyx",
+    "rivals": {
+      "359": "ManeMan08",
+      "487": "Auryn",
+      "500": "IzzyLockhardt"
+    }
+  },
+  "538": {
+    "entrant_name": "CinnamonPie",
+    "rivals": {}
+  },
+  "539": {
+    "entrant_name": "morewine.jpg",
+    "rivals": {
+      "507": "chroma"
+    }
+  },
+  "540": {
+    "entrant_name": "Mofointhedisco",
+    "rivals": {}
+  },
+  "541": {
+    "entrant_name": "expcake",
+    "rivals": {}
+  },
+  "545": {
+    "entrant_name": "NickTrioxin",
+    "rivals": {}
+  },
+  "547": {
+    "entrant_name": "DGY.n1ch4rd",
+    "rivals": {
+      "309": "xRaPpApErx"
+    }
+  },
+  "548": {
+    "entrant_name": "42",
+    "rivals": {}
+  },
+  "549": {
+    "entrant_name": "deletemeplease",
+    "rivals": {
+      "513": "slowandunsteady"
+    }
+  },
+  "551": {
+    "entrant_name": "PochoITG",
+    "rivals": {
+      "574": "RazonITG",
+      "578": "fidelitg",
+      "603": "jeshusha1"
+    }
+  },
+  "553": {
+    "entrant_name": "Stefe",
+    "rivals": {
+      "633": "neyoru",
+      "694": "Tidek"
+    }
+  },
+  "555": {
+    "entrant_name": "nauebp",
+    "rivals": {
+      "718": "oggvaldo"
+    }
+  },
+  "556": {
+    "entrant_name": "danizom813",
+    "rivals": {
+      "107": "MrTwinkles",
+      "276": "RatherBe",
+      "348": "NOWHERE Dance Club",
+      "355": "Dyne322"
+    }
+  },
+  "557": {
+    "entrant_name": "kolunio",
+    "rivals": {}
+  },
+  "558": {
+    "entrant_name": "hk",
+    "rivals": {}
+  },
+  "559": {
+    "entrant_name": "GreatDameCygnus",
+    "rivals": {}
+  },
+  "560": {
+    "entrant_name": "v4extreme",
+    "rivals": {
+      "269": "MY BRAND"
+    }
+  },
+  "561": {
+    "entrant_name": "estebantelz1216",
+    "rivals": {}
+  },
+  "562": {
+    "entrant_name": "3DBdown",
+    "rivals": {}
+  },
+  "563": {
+    "entrant_name": "pogjamie",
+    "rivals": {}
+  },
+  "565": {
+    "entrant_name": "rom_step",
+    "rivals": {}
+  },
+  "566": {
+    "entrant_name": "BigYama",
+    "rivals": {
+      "66": "fastboy"
+    }
+  },
+  "568": {
+    "entrant_name": "Zeta",
+    "rivals": {
+      "214": "yocto"
+    }
+  },
+  "569": {
+    "entrant_name": "gonekim116",
+    "rivals": {}
+  },
+  "570": {
+    "entrant_name": "EmeraldCatto",
+    "rivals": {}
+  },
+  "571": {
+    "entrant_name": "CABO",
+    "rivals": {
+      "157": "copas",
+      "218": "anisakis",
+      "253": "Ash ketchum!",
+      "404": "Koso"
+    }
+  },
+  "573": {
+    "entrant_name": "LT",
+    "rivals": {
+      "328": "slime"
+    }
+  },
+  "574": {
+    "entrant_name": "RazonITG",
+    "rivals": {}
+  },
+  "575": {
+    "entrant_name": "Chrizux",
+    "rivals": {
+      "400": "beeabay"
+    }
+  },
+  "578": {
+    "entrant_name": "fidelitg",
+    "rivals": {
+      "551": "PochoITG",
+      "574": "RazonITG",
+      "603": "jeshusha1"
+    }
+  },
+  "579": {
+    "entrant_name": "McYTG",
+    "rivals": {}
+  },
+  "580": {
+    "entrant_name": "qazd",
+    "rivals": {}
+  },
+  "583": {
+    "entrant_name": "xopher",
+    "rivals": {
+      "167": "dusk"
+    }
+  },
+  "585": {
+    "entrant_name": "nebbii",
+    "rivals": {
+      "726": "Behy"
+    }
+  },
+  "586": {
+    "entrant_name": "MetricConversion",
+    "rivals": {}
+  },
+  "587": {
+    "entrant_name": "Cadrin",
+    "rivals": {}
+  },
+  "588": {
+    "entrant_name": "Kaju_Inu",
+    "rivals": {}
+  },
+  "589": {
+    "entrant_name": "Nardu",
+    "rivals": {}
+  },
+  "590": {
+    "entrant_name": "Raidos",
+    "rivals": {}
+  },
+  "593": {
+    "entrant_name": "FRCO",
+    "rivals": {}
+  },
+  "597": {
+    "entrant_name": "dlim",
+    "rivals": {}
+  },
+  "598": {
+    "entrant_name": "JNero",
+    "rivals": {
+      "105": "Bran",
+      "125": "nico",
+      "254": "Horsey",
+      "649": "Lord Farquaad"
+    }
+  },
+  "600": {
+    "entrant_name": "Kikoia",
+    "rivals": {
+      "107": "MrTwinkles",
+      "276": "RatherBe",
+      "348": "NOWHERE Dance Club",
+      "556": "danizom813",
+      "621": "Minty"
+    }
+  },
+  "602": {
+    "entrant_name": "Karaclysm",
+    "rivals": {}
+  },
+  "603": {
+    "entrant_name": "jeshusha1",
+    "rivals": {
+      "551": "PochoITG",
+      "578": "fidelitg"
+    }
+  },
+  "608": {
+    "entrant_name": "emcat",
+    "rivals": {}
+  },
+  "611": {
+    "entrant_name": "CAMIX",
+    "rivals": {
+      "253": "Ash ketchum!"
+    }
+  },
+  "612": {
+    "entrant_name": "DragonDelgar",
+    "rivals": {}
+  },
+  "613": {
+    "entrant_name": "sidopolis",
+    "rivals": {
+      "251": "Rudeshadow",
+      "333": "t3a"
+    }
+  },
+  "614": {
+    "entrant_name": "Flon",
+    "rivals": {}
+  },
+  "616": {
+    "entrant_name": "jediknite",
+    "rivals": {}
+  },
+  "617": {
+    "entrant_name": "B3NS3X",
+    "rivals": {
+      "48": "Franksoua"
+    }
+  },
+  "618": {
+    "entrant_name": "pasgetti",
+    "rivals": {
+      "251": "Rudeshadow",
+      "613": "sidopolis"
+    }
+  },
+  "619": {
+    "entrant_name": "Aoba",
+    "rivals": {
+      "211": "JONBUDDY"
+    }
+  },
+  "620": {
+    "entrant_name": "Treklock",
+    "rivals": {}
+  },
+  "621": {
+    "entrant_name": "Minty",
+    "rivals": {
+      "348": "NOWHERE Dance Club"
+    }
+  },
+  "623": {
+    "entrant_name": "Roscoe",
+    "rivals": {}
+  },
+  "624": {
+    "entrant_name": "ortiz",
+    "rivals": {}
+  },
+  "626": {
+    "entrant_name": "BIZARRO",
+    "rivals": {}
+  },
+  "627": {
+    "entrant_name": "ZOM",
+    "rivals": {}
+  },
+  "630": {
+    "entrant_name": "topet",
+    "rivals": {}
+  },
+  "631": {
+    "entrant_name": "Okepa Makoi",
+    "rivals": {
+      "612": "DragonDelgar"
+    }
+  },
+  "632": {
+    "entrant_name": "Conrad_573",
+    "rivals": {}
+  },
+  "633": {
+    "entrant_name": "neyoru",
+    "rivals": {
+      "553": "Stefe"
+    }
+  },
+  "634": {
+    "entrant_name": "defekTiVE",
+    "rivals": {}
+  },
+  "636": {
+    "entrant_name": "Ed!.",
+    "rivals": {}
+  },
+  "637": {
+    "entrant_name": "Koizumi Chineko",
+    "rivals": {
+      "409": "Lisek",
+      "480": "Ayaka"
+    }
+  },
+  "640": {
+    "entrant_name": "San19",
+    "rivals": {
+      "165": "lafv54"
+    }
+  },
+  "642": {
+    "entrant_name": "Soul",
+    "rivals": {
+      "717": "cerise"
+    }
+  },
+  "644": {
+    "entrant_name": "Mandodo",
+    "rivals": {}
+  },
+  "646": {
+    "entrant_name": "Wenn",
+    "rivals": {}
+  },
+  "647": {
+    "entrant_name": "arx",
+    "rivals": {
+      "64": "Renbrandt"
+    }
+  },
+  "648": {
+    "entrant_name": "tari",
+    "rivals": {}
+  },
+  "649": {
+    "entrant_name": "Lord Farquaad",
+    "rivals": {
+      "666": "Amoo"
+    }
+  },
+  "650": {
+    "entrant_name": "PanStyle",
+    "rivals": {}
+  },
+  "651": {
+    "entrant_name": "Hewhoamareismyself",
+    "rivals": {}
+  },
+  "653": {
+    "entrant_name": "snaggle",
+    "rivals": {}
+  },
+  "654": {
+    "entrant_name": "Palitroque",
+    "rivals": {
+      "706": "toxunto"
+    }
+  },
+  "655": {
+    "entrant_name": "lililotta",
+    "rivals": {}
+  },
+  "656": {
+    "entrant_name": "robotmeadows",
+    "rivals": {}
+  },
+  "659": {
+    "entrant_name": "partybus",
+    "rivals": {}
+  },
+  "660": {
+    "entrant_name": "ST3V_IORY",
+    "rivals": {}
+  },
+  "662": {
+    "entrant_name": "master0061",
+    "rivals": {}
+  },
+  "663": {
+    "entrant_name": "Nate",
+    "rivals": {}
+  },
+  "665": {
+    "entrant_name": "jaspine",
+    "rivals": {}
+  },
+  "666": {
+    "entrant_name": "Amoo",
+    "rivals": {}
+  },
+  "667": {
+    "entrant_name": "ChiefSkittles",
+    "rivals": {}
+  },
+  "671": {
+    "entrant_name": "N30S",
+    "rivals": {}
+  },
+  "674": {
+    "entrant_name": "mothbeast",
+    "rivals": {}
+  },
+  "677": {
+    "entrant_name": "Lumen",
+    "rivals": {}
+  },
+  "678": {
+    "entrant_name": "kaiiste",
+    "rivals": {}
+  },
+  "681": {
+    "entrant_name": "kenji-",
+    "rivals": {}
+  },
+  "683": {
+    "entrant_name": "Corrie Divitt",
+    "rivals": {}
+  },
+  "684": {
+    "entrant_name": "dashark",
+    "rivals": {
+      "265": "LaplaceFox"
+    }
+  },
+  "685": {
+    "entrant_name": "Lyricalnyu",
+    "rivals": {}
+  },
+  "686": {
+    "entrant_name": "felinecity",
+    "rivals": {
+      "678": "kaiiste"
+    }
+  },
+  "687": {
+    "entrant_name": "newtim",
+    "rivals": {}
+  },
+  "688": {
+    "entrant_name": "Cublex",
+    "rivals": {}
+  },
+  "689": {
+    "entrant_name": "Shimmy89",
+    "rivals": {}
+  },
+  "691": {
+    "entrant_name": "Namacha",
+    "rivals": {}
+  },
+  "692": {
+    "entrant_name": "LittleClam",
+    "rivals": {}
+  },
+  "694": {
+    "entrant_name": "Tidek",
+    "rivals": {
+      "480": "Ayaka",
+      "633": "neyoru"
+    }
+  },
+  "696": {
+    "entrant_name": "Floms",
+    "rivals": {}
+  },
+  "699": {
+    "entrant_name": "Biala",
+    "rivals": {
+      "37": "Blizzrdball",
+      "445": "TheManwich",
+      "482": "Frantalicious"
+    }
+  },
+  "703": {
+    "entrant_name": "MILO",
+    "rivals": {}
+  },
+  "704": {
+    "entrant_name": "HISA",
+    "rivals": {}
+  },
+  "706": {
+    "entrant_name": "toxunto",
+    "rivals": {}
+  },
+  "712": {
+    "entrant_name": "Eijiken",
+    "rivals": {}
+  },
+  "713": {
+    "entrant_name": "Poosiboy",
+    "rivals": {}
+  },
+  "717": {
+    "entrant_name": "cerise",
+    "rivals": {}
+  },
+  "718": {
+    "entrant_name": "oggvaldo",
+    "rivals": {}
+  },
+  "719": {
+    "entrant_name": "Dashyy",
+    "rivals": {}
+  },
+  "721": {
+    "entrant_name": "HegemonMithos",
+    "rivals": {}
+  },
+  "722": {
+    "entrant_name": "Mallow",
+    "rivals": {}
+  },
+  "724": {
+    "entrant_name": "Electromuis",
+    "rivals": {
+      "725": "Silke",
+      "726": "Behy"
+    }
+  },
+  "725": {
+    "entrant_name": "Silke",
+    "rivals": {
+      "397": "Opartyjesper",
+      "726": "Behy"
+    }
+  },
+  "726": {
+    "entrant_name": "Behy",
+    "rivals": {
+      "585": "nebbii",
+      "724": "Electromuis",
+      "725": "Silke"
+    }
+  },
+  "728": {
+    "entrant_name": "Tyty",
+    "rivals": {}
+  },
+  "729": {
+    "entrant_name": "Ofnd_pnapl_01 ",
+    "rivals": {}
+  },
+  "733": {
+    "entrant_name": "kuwabara",
+    "rivals": {}
+  },
+  "734": {
+    "entrant_name": "7ten",
+    "rivals": {}
+  },
+  "736": {
+    "entrant_name": "Marquistadorous",
+    "rivals": {}
+  },
+  "740": {
+    "entrant_name": "SmidgeCoo",
+    "rivals": {}
+  },
+  "741": {
+    "entrant_name": "vanzbmc",
+    "rivals": {}
+  },
+  "742": {
+    "entrant_name": "Nazrin",
+    "rivals": {}
+  },
+  "747": {
+    "entrant_name": "_Temeraire",
+    "rivals": {}
+  },
+  "749": {
+    "entrant_name": "Samuelio",
+    "rivals": {}
+  },
+  "750": {
+    "entrant_name": "LPCrossOver",
+    "rivals": {}
+  },
+  "751": {
+    "entrant_name": "Yucky",
+    "rivals": {}
+  },
+  "752": {
+    "entrant_name": "bicycle_man",
+    "rivals": {}
+  },
+  "753": {
+    "entrant_name": "shnarg",
+    "rivals": {}
+  },
+  "754": {
+    "entrant_name": "StepOnIt",
+    "rivals": {}
+  },
+  "758": {
+    "entrant_name": "Fugma",
+    "rivals": {
+      "9": "DGY.azirixx"
+    }
+  },
+  "760": {
+    "entrant_name": "ali_magica",
+    "rivals": {}
+  },
+  "766": {
+    "entrant_name": "TheMusserO",
+    "rivals": {}
+  },
+  "770": {
+    "entrant_name": "FlowerBnuySage",
+    "rivals": {}
+  },
+  "771": {
+    "entrant_name": "anidiot",
+    "rivals": {
+      "770": "FlowerBnuySage"
+    }
+  },
+  "774": {
+    "entrant_name": "Fierra",
+    "rivals": {}
+  },
+  "776": {
+    "entrant_name": "CedricSM",
+    "rivals": {}
+  },
+  "777": {
+    "entrant_name": "SailorMoonElite",
+    "rivals": {}
+  },
+  "779": {
+    "entrant_name": "typobox",
+    "rivals": {}
+  }
+}

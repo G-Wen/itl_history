@@ -1,4 +1,3 @@
-from email.mime import base
 import requests
 import json
 import os
@@ -30,7 +29,7 @@ def get_song_info(song_id):
 
 def get_song_ids():
     ids = []
-    song_list = get_song_list()
+    song_list = get_song_list()['songs']
     for song in song_list:
         ids.append(song['song_id'])
     return ids
@@ -207,8 +206,10 @@ def take_itl_snapshot(dayhour, basefolder=None):
         song_info_folder = basefolder / "song_info"
         entrant_info_folder = basefolder / "entrant_info"
 
-    song_ids = [1, 3, 4, 5, 6, 8, 9, 13, 14, 15, 16, 18, 19, 21, 23, 24, 25, 26, 27, 31, 32, 34, 35, 36, 38, 39, 42, 43, 44, 46, 47, 48, 49, 51, 53, 55, 56, 58, 59, 60, 61, 62, 65, 67, 69, 72, 73, 75, 76, 77, 78, 81, 83, 85, 86, 87, 89, 90, 91, 93, 94, 96, 98, 99, 100, 84, 101, 102, 103, 104, 106, 108, 109, 110, 111, 113, 115, 117, 119, 121, 122, 123, 124, 125, 126, 129, 130, 136, 137, 138, 140, 141, 142, 143, 147, 148, 149, 150, 151, 152, 153, 158, 159, 161, 162, 179, 146, 165, 166, 167, 168, 169, 170, 171, 173, 175, 177, 178, 180, 183, 187, 144, 164, 181, 189, 191, 193, 196, 199, 200, 201, 202, 203, 204, 207, 209, 210, 211, 212, 213, 214, 217, 220, 221, 222, 223, 224, 226, 229, 230, 231, 232, 234, 235, 236, 237, 238, 228, 242, 243, 244, 245, 247, 248, 250, 251, 241, 253, 257, 258, 259, 260, 262, 263, 264, 265, 268, 269, 271, 272, 274, 275, 279, 280, 283, 277, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 300]
+    song_ids = get_song_ids()
+    time.sleep(1)
     entrant_ids = get_entrant_ids()
+    time.sleep(1)
     save_leaderboard(leaderboard_folder)
     save_songs(song_ids, song_scores_folder, song_info_folder)
     save_entrants(entrant_ids, entrant_scores_folder, entrant_info_folder)
